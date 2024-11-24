@@ -1,5 +1,6 @@
-## NAME: JENIL PIO J
-## REG. NO. : 212223220040
+ NAME: JENIL PIO J
+ 
+ REG. NO. : 212223220040
 ## Uploading temperature sensor data in Thing Speak cloud
 
 # AIM:
